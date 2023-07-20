@@ -28,6 +28,12 @@
 ,
 [Whonix](https://www.whonix.org)
 
+## Privacy awareness
+1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
+2. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
+3. [privacytools.io](https://www.privacytools.io) - Provides services, tools and privacy guides to counter global mass surveillance.
+4. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
+
 ## Watch
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
