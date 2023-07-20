@@ -31,6 +31,12 @@
 [Parrot Security](https://www.parrotsec.org)
 ,
 [Whonix](https://www.whonix.org)
+,
+[BlendOS](https://blendos.co)
+,
+[CachyOS](https://cachyos.org)
+,
+[InstantOS](https://instantos.io)
 
 ## Educational links
 1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
