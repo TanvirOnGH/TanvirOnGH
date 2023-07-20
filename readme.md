@@ -28,6 +28,8 @@
 ,
 [Devuan](https://www.devuan.org)
 ,
+[Parrot Security](https://www.parrotsec.org)
+,
 [Whonix](https://www.whonix.org)
 
 ## Educational links
