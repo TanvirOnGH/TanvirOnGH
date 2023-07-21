@@ -15,6 +15,7 @@
 9. [Learn about open source](https://teachingopensource.org/Learning_Resources)
 10. [The documentation system](https://documentation.divio.com)
 11. [Semantic Versioning 2.0.0](https://semver.org)
+12. [Threat Modeling guide by privsec.dev](https://privsec.dev/posts/knowledge/threat-modeling/)
 
 ## Useful links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
