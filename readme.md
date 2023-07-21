@@ -3,6 +3,25 @@
 ,
 [Open source](https://opensource.com/resources/what-open-source)
 
+## Recommended linux distros
+[NixOS](https://nixos.org)
+,
+[Gentoo Linux](https://www.gentoo.org)
+,
+[Bedrock Linux](https://bedrocklinux.org)
+,
+[Devuan](https://www.devuan.org)
+,
+[Parrot Security](https://www.parrotsec.org)
+,
+[Whonix](https://www.whonix.org)
+,
+[BlendOS](https://blendos.co)
+,
+[CachyOS](https://cachyos.org)
+,
+[InstantOS](https://instantos.io)
+
 ## Useful guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
 2. [SELinux guides and resources by Gentoo Linux](https://wiki.gentoo.org/wiki/SELinux)
@@ -22,25 +41,6 @@
 ## Useful links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
 2. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
-
-## Recommended linux distros
-[NixOS](https://nixos.org)
-,
-[Gentoo Linux](https://www.gentoo.org)
-,
-[Bedrock Linux](https://bedrocklinux.org)
-,
-[Devuan](https://www.devuan.org)
-,
-[Parrot Security](https://www.parrotsec.org)
-,
-[Whonix](https://www.whonix.org)
-,
-[BlendOS](https://blendos.co)
-,
-[CachyOS](https://cachyos.org)
-,
-[InstantOS](https://instantos.io)
 
 ## Educational links
 1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
