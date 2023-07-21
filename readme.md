@@ -49,8 +49,10 @@
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
 2. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
 3. [privacytools.io](https://www.privacytools.io) - Provides services, tools and privacy guides to counter global mass surveillance.
-4. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
-5. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
+4. [anonymousplanet.org](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity.
+6. [anonymousland.org](https://anonymousland.org) - Community dedicated to providing anonymity enhancing guides and services.
+7. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
+8. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
 
 ## Software awareness
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
