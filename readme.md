@@ -22,6 +22,9 @@
 ,
 [InstantOS](https://instantos.io)
 
+## Recommended Firefox Addons
+[My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
+
 ## Useful guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
 2. [SELinux guides and resources by Gentoo Linux](https://wiki.gentoo.org/wiki/SELinux)
