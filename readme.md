@@ -1,11 +1,11 @@
 [My PGP Key](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
 
-## Know the terms
+## Know The Terms
 [Free software](https://www.gnu.org/philosophy/free-sw.en.html)
 ,
 [Open source](https://opensource.com/resources/what-open-source)
 
-## Recommended linux distros
+## Recommended Linux Distros
 [NixOS](https://nixos.org)
 ,
 [Gentoo Linux](https://www.gentoo.org)
@@ -27,7 +27,7 @@
 ## Recommended Firefox Addons
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
-## Useful guides
+## Useful Guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
 2. [SELinux guides and resources by Gentoo Linux](https://wiki.gentoo.org/wiki/SELinux)
 3. [Gentoo Linux installation guide by duxsco](https://gentoo.duxsco.de)
@@ -44,18 +44,18 @@
 14. [Linux hardening guide by madaidan](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 15. [Linux hardening guide by privsec.dev](https://privsec.dev/posts/linux/desktop-linux-hardening)
 
-## Useful links
+## Useful Links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
 2. [ShellCheck](https://www.shellcheck.net) - Finds bugs in shell scripts.
 3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
 
-## Educational links
+## Educational Links
 1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
 2. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 3. [algebrarules.com](https://algebrarules.com) - The most useful rules of basic algebra, free, simple, & intuitively organized.
 4. [matrixmultiplication.xyz](http://matrixmultiplication.xyz) - Learn matrix mutiplication with animation.
 
-## Privacy awareness
+## Privacy Awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
 2. [VPN - a Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) - Criticisms for VPN use by Dennis Schubert.
 3. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
@@ -70,7 +70,7 @@
 ## Misconceptions
 1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
 
-## Software awareness
+## Software Awareness
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
 2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
 3. [Please don’t theme our apps](https://stopthemingmy.app) - An open letter from independent app developers to the wider GNOME community.
@@ -78,7 +78,7 @@
 ## Watch
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
-## Show your creativity
+## Show Your Creativity
 * [Neocities](https://neocities.org) - Create your own free website. Unlimited creativity, zero ads.
 * [Glitch](https://glitch.com) - The friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR.
 
