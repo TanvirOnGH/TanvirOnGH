@@ -1,4 +1,8 @@
-[My PGP Key](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
+[My PGP Key](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com) (openpgp)
+,
+[MY PGP Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/PGP_PUBLIC_KEY.txt)
+,
+[My SSH Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt)
 
 ## Know The Terms
 [Free software](https://www.gnu.org/philosophy/free-sw.en.html)
