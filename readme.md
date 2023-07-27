@@ -33,6 +33,10 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ## Recommended Firefox Addons
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
+## Recommended Reading
+1. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
+2. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr.
+
 ## Useful Guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
 2. [SELinux guides and resources by Gentoo Linux](https://wiki.gentoo.org/wiki/SELinux)
