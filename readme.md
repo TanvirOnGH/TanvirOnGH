@@ -90,6 +90,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
 2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
 3. [Please don’t theme our apps](https://stopthemingmy.app) - An open letter from independent app developers to the wider GNOME community.
+4. [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 
 ## Contribute
 [BOINC](https://boinc.berkeley.edu) - Lets you help cutting-edge science research using your computer (android smartphone, pc, mac).
