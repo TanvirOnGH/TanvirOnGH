@@ -40,7 +40,12 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 0. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by Robert Greene
 2. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
-3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr.
+3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr 
+
+## Curious Reading
+1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
+2. [Quantum computing for the very curious](https://quantum.country/qcvc)
+
 
 ## Useful Guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
@@ -62,7 +67,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ## Useful Links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
 2. [ShellCheck](https://www.shellcheck.net) - Finds bugs in shell scripts.
-3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened
+3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
 
 ## Privacy Awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
