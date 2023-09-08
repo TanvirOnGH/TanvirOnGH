@@ -14,7 +14,9 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ## Watch
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
-## Recommended Linux Distros
+## Recommendations
+
+### Linux Distros
 [NixOS](https://nixos.org)
 ,
 [Gentoo Linux](https://www.gentoo.org)
@@ -33,16 +35,16 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ,
 [InstantOS](https://instantos.io)
 
-## Recommended Firefox Addons
+### Firefox Addons
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
-## Recommended Reading
+### Book Reading
 0. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by Robert Greene
 2. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr 
 
-## Curious Reading
+### Curious Reading
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
 
