@@ -46,6 +46,11 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
 
+## Useful Links
+1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
+
+## Misconceptions
+1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
 
 ## Useful Guides
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
@@ -64,9 +69,6 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 14. [Linux hardening guide by madaidan](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 15. [Linux hardening guide by privsec.dev](https://privsec.dev/posts/linux/desktop-linux-hardening)
 
-## Useful Links
-1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
-
 ## Privacy Awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
 2. [VPN - a Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) - Criticisms for VPN use by Dennis Schubert.
@@ -77,10 +79,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 7. [0xacab.org/optout/into-the-crypt](https://0xacab.org/optout/into-the-crypt) - The Art of Anti-Forensics.
 8. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
 9. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
-10. [Email (In)security](https://qua3k.github.io/security/email) - There is no such thing as secure email.
-
-## Misconceptions
-1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
+10. [Email (In)security](https://qua3k.github.io/security/email) - There is no such thing as secure email
 
 ## Software Awareness
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
