@@ -4,6 +4,8 @@
 ,
 [My PGP Key](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com) (openpgp)
 
+Some firefox addons I use: [here](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
+
 Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org)
 
 ## Know The Terms
@@ -16,13 +18,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
-## Recommendations
-
-### Firefox Addons
-
-[My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
-
-### Curious Reading
+## Curious Reading
 
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
