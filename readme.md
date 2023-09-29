@@ -4,7 +4,6 @@
 ,
 [PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
 
-
 [HuggingFace Profile](https://huggingface.co/TanvirOnHF)
 
 [Daily.dev Profile](https://app.daily.dev/TanvirOnDD)
