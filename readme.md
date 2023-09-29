@@ -46,13 +46,6 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
-### Book Reading
-
-0. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
-1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by Robert Greene
-2. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
-3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr
-
 ### Curious Reading
 
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
