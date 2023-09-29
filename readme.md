@@ -24,10 +24,6 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
 3. [How CSS Alone Can Help Track You](https://blog.pastly.net/posts/2016-09-04-how-css-alone-can-help-track-you)
 
-## Useful Links
-
-1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
-
 ## Misconceptions
 
 1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
