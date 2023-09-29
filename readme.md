@@ -18,30 +18,6 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 ## Recommendations
 
-### Linux Distros
-
-[NixOS](https://nixos.org)
-,
-[Gentoo Linux](https://www.gentoo.org)
-,
-[Bedrock Linux](https://bedrocklinux.org)
-,
-[Devuan](https://www.devuan.org)
-,
-[Parrot Security](https://www.parrotsec.org)
-,
-[Whonix](https://www.whonix.org)
-,
-[Clear Linux](https://www.clearlinux.org)
-,
-[SnowflakeOS](https://snowflakeos.org)
-,
-[BlendOS](https://blendos.co)
-,
-[CachyOS](https://cachyos.org)
-,
-[InstantOS](https://instantos.io)
-
 ### Firefox Addons
 
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
