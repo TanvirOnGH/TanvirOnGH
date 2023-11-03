@@ -34,6 +34,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 4. [What Is Consciousness? - According to Wolfram Physics](https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/)
 5. [Why Does the Universe Exist? - According to Wolfram Physics](https://writings.stephenwolfram.com/2021/04/why-does-the-universe-exist-some-perspectives-from-our-physics-project/)
 6. [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+7. [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 
 ## Misconceptions
 
