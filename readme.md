@@ -13,6 +13,9 @@
 7. [How to Choose a License for Your Own Work by GNU](https://www.gnu.org/licenses/license-recommendations.html)
 8. [Learn about open source](https://teachingopensource.org/Learning_Resources)
 
+## Useful links
+1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
+
 ## Recommended linux distros
 [NixOS](https://nixos.org)
 ,
