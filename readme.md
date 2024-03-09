@@ -4,7 +4,14 @@
 ,
 [PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
 
-Some firefox addons I use: [here](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
+
+[HuggingFace Profile](https://huggingface.co/TanvirOnHF)
+
+[Daily.dev Profile](https://app.daily.dev/TanvirOnDD)
+
+[Some firefox addons I use](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
+
+[How I VSCode](https://howivscode.com/TanvirOnGH)
 
 Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org)
 
