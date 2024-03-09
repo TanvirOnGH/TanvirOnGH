@@ -14,7 +14,7 @@
 
 [How I VSCode](https://howivscode.com/TanvirOnGH)
 
-Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org) | Discord Username: `tanvir1337`
+Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org) | Discord Username: `tanvir1337` | Revolt Username: `Tanvir#9101`
 
 ## Know The Terms
 
