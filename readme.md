@@ -85,3 +85,4 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 1. [BOINC](https://boinc.berkeley.edu) - Lets you help cutting-edge science research using your computer (android smartphone, pc, mac).
 2. [Y-cruncher](http://www.numberworld.org/y-cruncher) - Compute Pi to trillions of digits and set world records for the most digits of Pi ever computed.
+3. [Petals](https://petals.dev) - Run large language models at home, BitTorrent‑style. Connect your GPU and increase Petals' capacity.
