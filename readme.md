@@ -13,6 +13,8 @@
 7. [Choose an open source license](https://choosealicense.com)
 8. [How to Choose a License for Your Own Work by GNU](https://www.gnu.org/licenses/license-recommendations.html)
 9. [Learn about open source](https://teachingopensource.org/Learning_Resources)
+10. [The documentation system](https://documentation.divio.com)
+11. [Semantic Versioning 2.0.0](https://semver.org)
 
 ## Useful links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
