@@ -28,6 +28,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
+3. [Zenbleed - An interesting CPU bug](https://lock.cmpxchg8b.com/zenbleed.html)
 
 ## Misconceptions
 
