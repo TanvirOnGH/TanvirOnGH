@@ -66,8 +66,6 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 ## Useful Links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
-2. [ShellCheck](https://www.shellcheck.net) - Finds bugs in shell scripts.
-3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
 
 ## Privacy Awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
