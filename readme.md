@@ -4,11 +4,11 @@
 ,
 [PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
 
-[HuggingFace Profile](https://huggingface.co/TanvirOnHF)
+[HuggingFace Profile](https://huggingface.co/Tanvir1337)
 
-[Daily.dev Profile](https://app.daily.dev/TanvirOnDD)
+[Daily.dev Profile](https://app.daily.dev/tanvir1337)
 
-[WakaTime Profile](https://wakatime.com/@TanvirOnWT)
+[WakaTime Profile](https://wakatime.com/@Tanvir1337)
 
 [Some firefox addons I use](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
