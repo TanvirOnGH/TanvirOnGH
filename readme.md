@@ -34,6 +34,10 @@
 3. [privacytools.io](https://www.privacytools.io) - Provides services, tools and privacy guides to counter global mass surveillance.
 4. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
 
+## Software awareness
+1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
+2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
+
 ## Watch
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
