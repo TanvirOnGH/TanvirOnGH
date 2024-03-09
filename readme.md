@@ -29,6 +29,8 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ,
 [Whonix](https://www.whonix.org)
 ,
+[Clear Linux](https://www.clearlinux.org)
+,
 [BlendOS](https://blendos.co)
 ,
 [CachyOS](https://cachyos.org)
