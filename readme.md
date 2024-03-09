@@ -7,16 +7,19 @@
 Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org)
 
 ## Know The Terms
+
 [Free software](https://www.gnu.org/philosophy/free-sw.en.html)
 ,
 [Open source](https://opensource.com/resources/what-open-source)
 
 ## Watch
+
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
 
 ## Recommendations
 
 ### Linux Distros
+
 [NixOS](https://nixos.org)
 ,
 [Gentoo Linux](https://www.gentoo.org)
@@ -38,25 +41,31 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 [InstantOS](https://instantos.io)
 
 ### Firefox Addons
+
 [My collection](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
 ### Book Reading
+
 0. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by Robert Greene
 2. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
-3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr 
+3. [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks Jr
 
 ### Curious Reading
+
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
 
 ## Useful Links
+
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
 
 ## Misconceptions
+
 1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
 
 ## Useful Guides
+
 1. [Introduction to SELinux by Github](https://github.blog/2023-07-05-introduction-to-selinux)
 2. [SELinux guides and resources by Gentoo Linux](https://wiki.gentoo.org/wiki/SELinux)
 3. [Gentoo Linux installation guide by duxsco](https://gentoo.duxsco.de)
@@ -74,6 +83,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 15. [Linux hardening guide by privsec.dev](https://privsec.dev/posts/linux/desktop-linux-hardening)
 
 ## Privacy Awareness
+
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
 2. [VPN - a Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) - Criticisms for VPN use by Dennis Schubert.
 3. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
@@ -86,11 +96,13 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 10. [Email (In)security](https://qua3k.github.io/security/email) - There is no such thing as secure email
 
 ## Software Awareness
+
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
 2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
 3. [Please don’t theme our apps](https://stopthemingmy.app) - An open letter from independent app developers to the wider GNOME community.
 4. [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - Shows how VPN services are a privacy nightmare.
 
 ## Contribute
+
 1. [BOINC](https://boinc.berkeley.edu) - Lets you help cutting-edge science research using your computer (android smartphone, pc, mac).
 2. [Y-cruncher](http://www.numberworld.org/y-cruncher) - Compute Pi to trillions of digits and set world records for the most digits of Pi ever computed.
