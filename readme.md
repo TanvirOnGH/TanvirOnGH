@@ -40,7 +40,8 @@
 
 ## Useful links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
-2. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
+2. [ShellCheck](https://www.shellcheck.net) - Finds bugs in shell scripts.
+3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
 
 ## Educational links
 1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
