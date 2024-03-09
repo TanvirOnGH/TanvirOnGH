@@ -1,8 +1,8 @@
-[MY PGP Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/PGP_PUBLIC_KEY.txt)
+[PGP Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/PGP_PUBLIC_KEY.txt)
 ,
-[My SSH Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt)
+[SSH Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt)
 ,
-[My PGP Key](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com) (openpgp)
+[PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
 
 Some firefox addons I use: [here](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
