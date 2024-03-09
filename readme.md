@@ -62,14 +62,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ## Useful Links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
 2. [ShellCheck](https://www.shellcheck.net) - Finds bugs in shell scripts.
-3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
-
-## Educational Links
-1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
-2. [Practical Deep Learning](https://course.fast.ai) - Practical Deep Learning course for people with some coding experience.
-3. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
-4. [algebrarules.com](https://algebrarules.com) - The most useful rules of basic algebra, free, simple, & intuitively organized.
-5. [matrixmultiplication.xyz](http://matrixmultiplication.xyz) - Learn matrix mutiplication with animation.
+3. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened
 
 ## Privacy Awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
