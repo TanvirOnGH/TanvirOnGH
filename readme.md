@@ -50,9 +50,10 @@
 
 ## Privacy awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
-2. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
-3. [privacytools.io](https://www.privacytools.io) - Provides services, tools and privacy guides to counter global mass surveillance.
-4. [anonymousplanet.org](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity.
+2. [VPN - a Very Precarious Narrative](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html) - Criticisms for VPN use by Dennis Schubert.
+3. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
+4. [privacytools.io](https://www.privacytools.io) - Provides services, tools and privacy guides to counter global mass surveillance.
+5. [anonymousplanet.org](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity.
 6. [anonymousland.org](https://anonymousland.org) - Community dedicated to providing anonymity enhancing guides and services.
 7. [0xacab.org/optout/into-the-crypt](https://0xacab.org/optout/into-the-crypt) - The Art of Anti-Forensics.
 8. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
