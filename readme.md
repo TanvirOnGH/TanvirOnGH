@@ -2,7 +2,7 @@
 ,
 [SSH Public Key](https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt)
 ,
-[PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40skiff.com)
+[PGP Key (openpgp)](https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40proton.me)
 
 [HuggingFace Profile](https://huggingface.co/Tanvir1337)
 
