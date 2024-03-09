@@ -57,6 +57,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 
 1. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 2. [Quantum computing for the very curious](https://quantum.country/qcvc)
+3. [How CSS Alone Can Help Track You](https://blog.pastly.net/posts/2016-09-04-how-css-alone-can-help-track-you)
 
 ## Useful Links
 
