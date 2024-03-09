@@ -47,6 +47,7 @@
 ## Software awareness
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
 2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
+3. [Please don’t theme our apps](https://stopthemingmy.app) - An open letter from independent app developers to the wider GNOME community.
 
 ## Watch
 [The Art of Git](https://youtu.be/x0PG3zt9DSY)
