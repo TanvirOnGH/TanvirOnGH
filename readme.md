@@ -58,6 +58,7 @@
 7. [0xacab.org/optout/into-the-crypt](https://0xacab.org/optout/into-the-crypt) - The Art of Anti-Forensics.
 8. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
 9. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
+10. [Email (In)security](https://qua3k.github.io/security/email) - There is no such thing as secure email.
 
 ## Misconceptions
 1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
