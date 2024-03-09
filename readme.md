@@ -34,6 +34,8 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 ,
 [Clear Linux](https://www.clearlinux.org)
 ,
+[SnowflakeOS](https://snowflakeos.org)
+,
 [BlendOS](https://blendos.co)
 ,
 [CachyOS](https://cachyos.org)
