@@ -55,6 +55,9 @@
 8. [Hack-Liberty-Resources](https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
 9. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
 
+## Misconceptions
+1. [Linux being secure](https://madaidans-insecurities.github.io/linux.html)
+
 ## Software awareness
 1. [flatkill](https://flatkill.org) - Shows how flatpak a security nightmare.
 2. [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277) - Shows how bad switching to Wayland can be.
