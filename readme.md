@@ -28,6 +28,10 @@
 ,
 [Whonix](https://www.whonix.org)
 
+## Educational links
+1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
+2. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
+
 ## Privacy awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
 2. [privacyguides.org](https://www.privacyguides.org) - The guide to restoring your online privacy.
