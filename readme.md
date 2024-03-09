@@ -68,6 +68,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 9. [privacy.sexy](https://privacy.sexy) - Enforce privacy & security on Windows and macOS.
 10. [Email (In)security](https://qua3k.github.io/security/email) - There is no such thing as secure email
 11. [How CSS Alone Can Help Track You](https://blog.pastly.net/posts/2016-09-04-how-css-alone-can-help-track-you)
+12. [Privacy & Security Resources by hackliberty](https://docs.hackliberty.org/books/privacy-security/page/privacy-security-resources)
 
 ## Software Awareness
 
