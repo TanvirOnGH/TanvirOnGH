@@ -8,6 +8,8 @@
 
 [Daily.dev Profile](https://app.daily.dev/TanvirOnDD)
 
+[WakaTime Profile](https://wakatime.com/@TanvirOnWT)
+
 [Some firefox addons I use](https://addons.mozilla.org/en-US/firefox/collections/17970682/TAT-Collection/)
 
 [How I VSCode](https://howivscode.com/TanvirOnGH)
