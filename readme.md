@@ -19,6 +19,7 @@
 
 ## Useful links
 1. [justdelete.me](https://justdelete.me) - A directory of direct links to delete your account from web services.
+2. [Gentoo Hardened Project](https://wiki.gentoo.org/wiki/Project:Hardened)
 
 ## Recommended linux distros
 [NixOS](https://nixos.org)
