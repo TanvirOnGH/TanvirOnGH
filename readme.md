@@ -31,6 +31,8 @@
 ## Educational links
 1. [Prompt Engineering Guide](https://www.promptingguide.ai) - Relatively new discipline. Get started early.
 2. [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
+3. [algebrarules.com](https://algebrarules.com) - The most useful rules of basic algebra, free, simple, & intuitively organized.
+4. [matrixmultiplication.xyz](http://matrixmultiplication.xyz) - Learn matrix mutiplication with animation.
 
 ## Privacy awareness
 1. [THEY TRACK YOU!](https://theytrackyou.com) - Global A website to raise awareness of online privacy.
