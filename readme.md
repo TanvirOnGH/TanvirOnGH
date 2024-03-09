@@ -83,6 +83,7 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 13. [Threat Modeling guide by privsec.dev](https://privsec.dev/posts/knowledge/threat-modeling/)
 14. [Linux hardening guide by madaidan](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 15. [Linux hardening guide by privsec.dev](https://privsec.dev/posts/linux/desktop-linux-hardening)
+16. [Maintaining Balance for Open Source Maintainers](https://opensource.guide/maintaining-balance-for-open-source-maintainers)
 
 ## Privacy Awareness
 
