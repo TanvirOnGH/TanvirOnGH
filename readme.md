@@ -93,4 +93,5 @@ Matrix ID: [@tanvir:hackliberty.org](https://chat.hackliberty.org/#/user/@tanvir
 4. [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) - Shows how VPN services are a privacy nightmare.
 
 ## Contribute
-[BOINC](https://boinc.berkeley.edu) - Lets you help cutting-edge science research using your computer (android smartphone, pc, mac).
+1. [BOINC](https://boinc.berkeley.edu) - Lets you help cutting-edge science research using your computer (android smartphone, pc, mac).
+2. [Y-cruncher](http://www.numberworld.org/y-cruncher) - Compute Pi to trillions of digits and set world records for the most digits of Pi ever computed.
