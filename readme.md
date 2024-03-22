@@ -19,3 +19,5 @@
 ├─ HowIVSCode: <a href="https://howivscode.com/TanvirOnGH">TanvirOnGH</a>                                                                `-'       `--'
 └─────────────────────────
 </pre>
+
+<h4 align="center"><a href=https://github.com/TanvirOnGH/TanvirOnGH/blob/extended-info/readme.md>Extended Personal Info!</a></h4>
