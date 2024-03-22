@@ -1,5 +1,5 @@
 <pre>
-┌──┤| PRIMARY ||
+┌──┤ KEYS |
 ├─ <a href="https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40proton.me">PGP Public Key (openpgp)</a>
 ├─ <a href="https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/PGP_PUBLIC_KEY.txt">PGP Public Key</a>                                                                            _nnnn_
 ├─ <a href="https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt">SSH Public Key</a>                                                                           dGGGGMMb
