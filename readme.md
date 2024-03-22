@@ -21,7 +21,7 @@
 ├─ Selinux Enabled: Yes
 ├─ encrypted boot: Yes (cryptboot)
 ├─ Filesystem: ZFS
-├─ Package Managers: Paludis, Portage Nix, Guix, Flatpak and Snap
+├─ Package Managers: Paludis, Portage, Nix, Guix, Flatpak and Snap
 ├─ All Free Software: Yes
 ├
 ┌──┤| HARDWARE ||
