@@ -24,8 +24,6 @@
 ├─ Package Managers: Paludis, Portage, Nix, Guix, Flatpak and Snap
 ├─ All Free Software: Yes
 ├
-┌──┤| HARDWARE ||
-├─ Censored. Hint: Built recently and it's a fairly powerful system with some top tier components.
 └────────────────────────── 
 </pre>
 
