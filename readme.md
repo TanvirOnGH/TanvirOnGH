@@ -50,4 +50,3 @@
 - I encrypt files before uploading to hosting platforms.
 - I use Whonix with multiple gateways when doing extensive research or exploring online content.
 - I regularly review and update my security configurations and policies.
-- I educate myself about the importance of digital hygiene, security & privacy awareness.
