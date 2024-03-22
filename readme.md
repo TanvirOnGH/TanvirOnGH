@@ -20,4 +20,4 @@
 └─────────────────────────
 </pre>
 
-<h4 align="center"><a href=https://github.com/TanvirOnGH/TanvirOnGH/blob/extended-info/readme.md>Extended Personal Info!</a></h4>
+<h4 align="center"><a href=https://github.com/TanvirOnGH/TanvirOnGH/blob/extended-info/readme.md>Extended Personal Info</a></h4>
