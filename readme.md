@@ -8,7 +8,6 @@
 ┌──┤ SOCIAL |                                                                              @,----.JM|
 ├─ Matrix: <a href="https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org">@tanvir:hackliberty.org</a>                                                        JS^\__/  qKL
 ├─ Discord: <a href="https://discord.com/users/1194985792154632262">tanvir1337</a>                                                                   dZP        qKRb
-├─ Revolt: <a href="https://app.revolt.chat/users/01HCDBS7E0K2CAYNN1AT7K3WAM">Tanvir#9101</a>                                                                  dZP          qKKb
 ├─ Twitter: <a href="https://twitter.com/Tanvir1337x">Tanvir1337x</a>                                                                fZP            SMMb
 └─────────────────────────────────                                                     HZM            MMMM
                                                                                        FqM            MMMM
