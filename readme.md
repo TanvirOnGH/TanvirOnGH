@@ -1,22 +1,23 @@
-<pre>
-┌──┤ KEYS |
-├─ <a href="https://keys.openpgp.org/search?q=tanvir.ahmed.tonoy%40proton.me">PGP Public Key (openpgp)</a>
-├─ <a href="https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/PGP_PUBLIC_KEY.txt">PGP Public Key</a>                                                                            _nnnn_
-├─ <a href="https://raw.githubusercontent.com/TanvirOnGH/TanvirOnGH/showcase/SSH_PUBLIC_KEY.txt">SSH Public Key</a>                                                                           dGGGGMMb
-└──────────────────────────                                                                @p~qp~~qMb
-                                                                                           M|@||@) M|
-┌──┤ SOCIAL |                                                                              @,----.JM|
-├─ Matrix: <a href="https://chat.hackliberty.org/#/user/@tanvir:hackliberty.org">@tanvir:hackliberty.org</a>                                                        JS^\__/  qKL
-├─ Discord: <a href="https://discord.com/users/1194985792154632262">tanvir1337</a>                                                                   dZP        qKRb
-├─ Twitter: <a href="https://twitter.com/Tanvir1337x">Tanvir1337x</a>                                                                fZP            SMMb
-└─────────────────────────────────                                                     HZM            MMMM
-                                                                                       FqM            MMMM
-┌──┤ MISC |                                                                          __| ".        |\dS"qML
-├─ HuggingFace: <a href="https://huggingface.co/Tanvir1337">Tanvir1337</a>                                                           |    `.       | `' \Zq
-├─ Daily.dev: <a href="https://app.daily.dev/tanvir1337">tanvir1337</a>                                                            _)      \.___.,|     .'
-├─ WakaTime: <a href="https://wakatime.com/@Tanvir1337">@Tanvir1337</a>                                                            \____   )MMMMMP|   .'
-├─ HowIVSCode: <a href="https://howivscode.com/TanvirOnGH">TanvirOnGH</a>                                                                `-'       `--'
-└─────────────────────────
-</pre>
+# Public Keys
 
-<h4 align="center"><a href=https://github.com/TanvirOnGH/TanvirOnGH/blob/extended-info/readme.md>Extended Personal Info</a></h4>
+To ensure secure communication and access, you can use the following public keys:
+
+## PGP Public Key
+
+You can use this PGP public key to encrypt emails or verify my signed messages.
+
+**Key Fingerprint**: `3B8F 2E56 F90E A9F3 8335  B8EE 521B C9A7 FD43 F0D0`
+
+[Download PGP Public Key](keys/pgp_public_key.asc)
+
+## SSH Public Key
+
+Use this SSH public key to grant me access to your systems.
+
+**Key Fingerprint**: `SHA256:mfbTDaRaC9rwRqPYij5uKQCApFEmp3feLT1rfJUu0XA`
+
+[Download SSH Public Key](keys/ssh_public_key.pub)
+
+## Additional Information
+
+If you want to contact me through other means or find links to my other profiles and accounts, please check the other branches of this repository.
