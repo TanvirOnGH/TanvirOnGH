@@ -20,4 +20,4 @@ Use this SSH public key to grant me access to your systems.
 
 ## Additional Information
 
-If you want to contact me through other means or find links to my other profiles and accounts, please check the other branches of this repository.
+If you want to reach me through other methods or find links to my other profiles and accounts, please explore the other branches of this repository. You can also contact me via [GitHub Discussions](https://github.com/TanvirOnGH/TanvirOnGH/discussions).
