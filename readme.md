@@ -1,5 +1,11 @@
 [![wakatime](https://wakatime.com/badge/user/5bdce73d-08ba-4ec4-971d-2ab24592849f.svg?style=social)](https://wakatime.com/@5bdce73d-08ba-4ec4-971d-2ab24592849f)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake.svg" />
+  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake.svg" />
+</picture>
+
 # Public Keys
 
 To ensure secure communication and access, you can use the following public keys:
