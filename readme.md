@@ -6,21 +6,13 @@
   <img alt="Github Snake Contributions Graph Animation" src="https://github.com/TanvirOnGH/TanvirOnGH/blob/gh-snk-contribs-graph-output/github-snake.svg" />
 </picture>
 
-# Public Keys
-
-To ensure secure communication and access, you can use the following public keys:
-
 ## PGP Public Key
-
-You can use this PGP public key to encrypt emails or verify my signed messages.
 
 **Key Fingerprint**: `3B8F 2E56 F90E A9F3 8335  B8EE 521B C9A7 FD43 F0D0`
 
 [Download PGP Public Key](keys/pgp_public_key.asc)
 
 ## SSH Public Key
-
-Use this SSH public key to grant me access to your systems.
 
 **Key Fingerprint**: `SHA256:mfbTDaRaC9rwRqPYij5uKQCApFEmp3feLT1rfJUu0XA`
 
