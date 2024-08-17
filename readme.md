@@ -25,7 +25,3 @@ Use this SSH public key to grant me access to your systems.
 **Key Fingerprint**: `SHA256:mfbTDaRaC9rwRqPYij5uKQCApFEmp3feLT1rfJUu0XA`
 
 [Download SSH Public Key](keys/ssh_public_key.pub)
-
-## Additional Information
-
-If you want to reach me through other methods or find links to my other profiles and accounts, please explore the other branches of this repository. You can see my categorized list of starred repositories [here](https://github.com/TanvirOnGH/starred). You can also contact me via [GitHub Discussions](https://github.com/TanvirOnGH/TanvirOnGH/discussions).
