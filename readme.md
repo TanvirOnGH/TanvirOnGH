@@ -17,3 +17,6 @@
 **Key Fingerprint**: `SHA256:mfbTDaRaC9rwRqPYij5uKQCApFEmp3feLT1rfJUu0XA`
 
 [Download SSH Public Key](keys/ssh_public_key.pub)
+
+---
+> Send Anonymous Tips [here](https://www.admonymous.co/tanvir)
