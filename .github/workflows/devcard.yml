@@ -1,0 +1,23 @@
+name: Generate daily.dev devcard
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */1 * *" # Daily
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard-output
+        uses: dailydotdev/action-devcard@main
+        with:
+          # The part before the .png extension in your devcard URL
+          # <https://app.daily.dev/devcard>
+          user_id: ${{ secrets.USER_ID }}
+          commit_branch: devcard
+          commit_filename: devcard.png
+          commit_message: "update ${filename}"
