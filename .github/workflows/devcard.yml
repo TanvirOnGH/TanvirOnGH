@@ -12,12 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: devcard-output
+      - name: Generate and push devcard
         uses: dailydotdev/action-devcard@main
         with:
           # The part before the .png extension in your devcard URL
           # <https://app.daily.dev/devcard>
           user_id: ${{ secrets.DAILYDOTDEV_USER_ID }}
-          commit_branch: devcard
+          commit_branch: devcard-output
           commit_filename: devcard.png
           commit_message: "update ${filename}"
