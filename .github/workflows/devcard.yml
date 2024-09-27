@@ -15,6 +15,7 @@ jobs:
       - name: Generate and push devcard
         uses: dailydotdev/action-devcard@main
         with:
+          type: "wide" # Horizontal
           # The part before the .png extension in your devcard URL
           # <https://app.daily.dev/devcard>
           user_id: ${{ secrets.DAILYDOTDEV_USER_ID }}
